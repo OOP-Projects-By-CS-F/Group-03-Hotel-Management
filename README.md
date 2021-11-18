@@ -1,7 +1,7 @@
 # Hotel-Management
 Link the project to Database to easily access it
 
-Team Members
+Team Members:
 
 1.Prateeti Mehta Jain	
 
